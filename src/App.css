@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+
+
+.newsArticles{
+	max-width: 650px;
+	margin: 0px 20px;
+}
+
+.news-card{
+	
+}
